@@ -3,4 +3,4 @@ merpulo.mesh = new HexMesh(Merpulo, 2);
 merpulo.false = true;
 merpulo.accessible = true;
 merpulo.hasAtmosphere = false;
-merpulo.orbitRadius = 100
+merpulo.orbitRadius = 50
