@@ -1,0 +1,6 @@
+name: "real-solar-system"
+displayName: "Real Solar System"
+author: "iogame"
+description: "Add in the Solar System to Mindustry"
+version: "0.1"
+minGameVersion: "120"
